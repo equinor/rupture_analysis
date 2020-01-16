@@ -1,0 +1,3 @@
+PLOTTING = False
+CONFIDENCE = 0.996
+LOGGER = "rupture"
